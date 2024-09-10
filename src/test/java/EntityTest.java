@@ -73,9 +73,4 @@ public class EntityTest {
 
         emf.close(); // 사용한 EntityManagerFactory 를 종료합니다.
     }
-
-
-
-
-
 }
